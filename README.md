@@ -1,4 +1,4 @@
-# neumo_caclulator
+# neumorphic_caclulator
 
 A simple calculator with neumorphism UI.
 
