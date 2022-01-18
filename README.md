@@ -1,6 +1,8 @@
 # neumorphic_caclulator
 
-A simple calculator with neumorphism UI.
+A simple Fluttter calculator app with neumorphism UI.
+
+![optimized](https://user-images.githubusercontent.com/86363897/150008424-3e9d0d91-f2ee-4e8e-94df-044543eccc6e.png)
 
 ## Getting Started
 
